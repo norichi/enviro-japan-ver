@@ -304,7 +304,7 @@ HEIGHT = disp.height
 
 # The city and timezone that you want to display.
 city_name = "Tokyo"
-time_zone = "Tokyo"
+time_zone = "Asia/Tokyo"
 
 # Values that alter the look of the background
 blur = 50
